@@ -1,0 +1,12 @@
+C:\Users\fsari\source\repos\BookStoreAPI\BookStore.Data\bin\Debug\net5.0\BookStore.Data.deps.json
+C:\Users\fsari\source\repos\BookStoreAPI\BookStore.Data\bin\Debug\net5.0\BookStore.Data.dll
+C:\Users\fsari\source\repos\BookStoreAPI\BookStore.Data\bin\Debug\net5.0\ref\BookStore.Data.dll
+C:\Users\fsari\source\repos\BookStoreAPI\BookStore.Data\bin\Debug\net5.0\BookStore.Data.pdb
+C:\Users\fsari\source\repos\BookStoreAPI\BookStore.Data\obj\Debug\net5.0\BookStore.Data.csproj.AssemblyReference.cache
+C:\Users\fsari\source\repos\BookStoreAPI\BookStore.Data\obj\Debug\net5.0\BookStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fsari\source\repos\BookStoreAPI\BookStore.Data\obj\Debug\net5.0\BookStore.Data.AssemblyInfoInputs.cache
+C:\Users\fsari\source\repos\BookStoreAPI\BookStore.Data\obj\Debug\net5.0\BookStore.Data.AssemblyInfo.cs
+C:\Users\fsari\source\repos\BookStoreAPI\BookStore.Data\obj\Debug\net5.0\BookStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\fsari\source\repos\BookStoreAPI\BookStore.Data\obj\Debug\net5.0\BookStore.Data.dll
+C:\Users\fsari\source\repos\BookStoreAPI\BookStore.Data\obj\Debug\net5.0\ref\BookStore.Data.dll
+C:\Users\fsari\source\repos\BookStoreAPI\BookStore.Data\obj\Debug\net5.0\BookStore.Data.pdb
